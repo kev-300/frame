@@ -31,3 +31,5 @@ label2.pack(pady=5)
 ventana.mainloop()
 
 #hola
+
+# hola que hace
